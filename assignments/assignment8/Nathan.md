@@ -4,7 +4,11 @@
 
 
 JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+
 Traceback:
+
+
 File "/home/nc0926/.local/lib/python3.10/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 584, in _run_script
     exec(code, module.__dict__)
 File "/mnt/c/Users/natha/whisper-self-hosted-llm/whisper-model-service/streamlit/whisper_client.py", line 19, in <module>
